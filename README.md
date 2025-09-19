@@ -54,7 +54,7 @@ A revolutionary, Stranger Things-themed event management system built with React
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/wisteria-25-event-system.git
+   git clone https://github.com/YOUR_USERNAME/INNOSTRA-25.git
    cd wisteria-25-event-system
    ```
 
